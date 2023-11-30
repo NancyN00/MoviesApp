@@ -1,10 +1,14 @@
 # MoviesApp 
 A simple app pulling data from API. Use of Hilt, Coroutine, Retrofit and ViewModels.
-##**App Architecture** 
+
+**App Architecture** 
+
 * views
 * viewmodels
 * repositories
-##**Technologies** 
+* 
+**Technologies**
+  
 * Kotlin
 * Hilt
 * Retrofit
